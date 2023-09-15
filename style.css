@@ -1,0 +1,26 @@
+/* All the body text gets this font and color */
+
+body {
+  font-family: Poppins-Regular.woff2;
+  color: var(--body-text-color);
+}
+body {
+  background-color: silver;
+}
+
+/* Header styles */
+header {
+  padding: 24px;
+  font-size: 1.125rem;
+  text-decoration: none;
+}
+
+/* Main styles */
+.info {
+  color: rgb(108, 115, 119);
+}
+
+/* Footer styles */
+.footer {
+ 
+}
